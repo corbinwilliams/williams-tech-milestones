@@ -1,0 +1,39 @@
+body{
+  background-color:black;
+}
+h1 {
+  color:purple;
+  text-align: center;
+}
+h2{
+  color:orange;
+  text-align: center;
+}
+
+p{
+  color:green;
+  text-align: center;
+  margin-left:100px;
+  margin-right:100px;
+}
+
+#para1 {
+  text-align: center;
+  color: lime;
+}
+#para2 {
+  text-align: center;
+  color: red;
+}
+#para3 {
+  text-align: center;
+  color: yellow;
+}
+#para4 {
+  text-align: center;
+  color: darkorange;
+}
+#para5 {
+  text-align: center;
+  color: lightblue;
+}
